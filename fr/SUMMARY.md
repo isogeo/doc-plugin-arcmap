@@ -8,8 +8,6 @@
 ## Installation
 
 * [Standard](installation/standard.md)
-* [Version bêta](installation/beta.md)
-* [Version en développement](installation/dev.md)
 
 ## Utilisation
 
