@@ -8,6 +8,7 @@
 ## Installation
 
 * [Standard](installation/standard.md)
+* [Mettre à jour](installation/update.md)
 
 ## Utilisation
 
