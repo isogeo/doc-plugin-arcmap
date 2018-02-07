@@ -12,11 +12,11 @@ La procédure se déroule en 2 grandes étapes : installer le plugin puis l'ajou
 
 2. Cliquer sur `ArcMapAddinIsogeo.esriAddIn` :
     
-    ![](/assets/plugin_ArcMap_install_esriaddin.png "")
+    ![](../../assets/plugin_ArcMap_install_esriaddin.png "")
     
 3. La fenêtre suivante s'ouvre :
     
-    ![](/assets/plugin_ArcMap_install_confirm.png "")
+    ![](../../assets/plugin_ArcMap_install_confirm.png "")
 
 5. Valider en cliquant sur **Install Add-In**.
 

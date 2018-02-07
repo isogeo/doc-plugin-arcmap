@@ -1,4 +1,4 @@
-![](/assets/logo_isogeo_arcmap.png)
+![](../../assets/logo_isogeo_arcmap.png)
 
 Vous rêviez d’un moteur de recherche de données dans votre SIG… Isogeo et ses partenaires l’ont fait !
 
