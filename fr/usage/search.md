@@ -5,7 +5,9 @@ Pour tenir compte du moteur de recherche Isogeo \(basé sur le principes des fac
 1. l'utilisateur entre les paramètres de sa recherche qui ressert de plus en plus le nombre de résultats ;
 2. l'utilisateur affiche et parcourt la liste des résultats.
 
-![](https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/ui_tabs_main_search_empty_fr.png "Interface du plugin avec une recherche vide")
+![](../../assets/plugin_ArcMap_search_tab_filtered_FR.png "Interface du plugin avec une recherche vide")
+
+De là il peut alors [consulter la métadonnée](/usage/metadata.md) ou [ajouter la donnée à sa carte](/usage/display.md).
 
 ## Recherche sémantique
 
@@ -25,33 +27,25 @@ Pour en savoir plus sur le fonctionnement du moteur de recherche Isogeo, [consul
 
 ### Filtre par mot-clé
 
-Pour filtrer par mots-clés, cocher un ou plusieurs mots-clés dans la liste déroulante dédiée.
+Pour filtrer sur un mot-clé, sélectionner dans la liste déroulante dédiée.
 
-![](https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/search_options_keywords_fr.png "Filtre par mot-clé")
-
-### Filtre géographique
-
-Pour filtrer les résultats sur une emprise géographique, choisir une modalité dans la liste déroulante dédiée.   
-On y trouve les possibilités de filtrer sur :
-
-* L'emprise actuelle de la carte
-* L'enveloppe convexe des couches actuellement affichées
-
-!\[\]\([https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/search\_options\_geographic\_fr.png](https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/search_options_geographic_fr.png) "Filtre à partir de la carte ou d'une couche active"\)
-
-Par défaut, le filtre géographique remonte toute les données qui intersectent l'emprise considérée.
-
-Pour changer ce comportement, aller dans l'onglet "Paramètres", choisir un opérateur différent, puis relancer la recherche.
-
-!\[\]\([https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/settings\_geographic\_fr.png](https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/settings_geographic_fr.png) "Paramétrer l'opérateur géométrique pour la recherche géographique"\)
+![](../../assets/plugin_ArcMap_search_options_keywords_FR.png "Filtre par mot-clé")
 
 ### Autres filtres
 
-Tous les autres filtres sémantiques fonctionnent de la même manière \(sélection d'une modalité dans une liste déroulante\). La seule exception est le filtre sur les actions disponibles pour lequel les options souhaitées doivent être cochées.
+Tous les autres filtres sémantiques fonctionnent de la même manière \(sélection d'une modalité dans une liste déroulante\).
 
-![](https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/search_options_actions_fr.png "Filtre sur les actions associées")
+Tous les filtres sont inter-dépendants \(contextuels\). Ainsi l'application d'un filtre fait évoluer les modalités disponibles dans toutes les listes déroulantes et le nombre de résultats correspondant.
 
-Tous les filtres sont inter-dépendants \(contextuels\). Ainsi l'application d'un filtre fait évoluer les modalités disponibles dans toutes les listes déroulantes.
+### Filtre géographique
+
+Il est également possible de filtrer les résultats à partir de l'emprise de la carte.
+
+![](../../assets/plugin_ArcMap_search_options_geographic_FR.png "Filtre à partir de la carte")
+
+Par défaut, le filtre géographique remonte toute les données qui **intersectent** l'emprise considérée. Pour changer ce comportement, aller dans l'onglet "Paramètres", choisir un opérateur différent, puis relancer la recherche.
+
+![](../../assets/plugin_ArcMap_settings_geographic_FR.png "Paramétrer l\'opérateur géométrique pour le filtre géographique")
 
 ---
 
