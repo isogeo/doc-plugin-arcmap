@@ -42,12 +42,13 @@ Le plugin est désormais référencé dans les compléments d'ArcMap. Il s'agit 
 
 #### II.a Ajouter une barre d'outils dédiée
 
-1. Dans l'onglet Barre d'outils
+1. Dans l'onglet **Barre d'outils**, descendre dans la liste et cocher Isogeo
+2. Glisser-déposer la barre d'outils apparue à sa convenance :
 
+![](/assets/plugin_ArcMap_install_custom_toolbar_dragNdrop.gif)
 
-> Astuce : il est également possible de faire un clic-droit et de cocher Isogeo, puis de placer la barre de la même manière :
+> Astuce : il est également possible de faire un clic-droit, dans une barre d'outils existante, de cocher Isogeo, puis de placer la barre de la même manière :
 > ![](../../assets/plugin_ArcMap_install_custom_toolbar_clic.png "Personnalisation - Barre d\'outils - Clic droit")
-
 
 #### II.b Ajouter l'icône à une barre d'outils existante
 
