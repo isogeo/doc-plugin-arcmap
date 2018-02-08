@@ -7,7 +7,7 @@
 
 ## Installation
 
-* [Standard](installation/standard.md)
+* [Installer et ajouter](installation/standard.md)
 * [Mettre à jour](installation/update.md)
 
 ## Utilisation
