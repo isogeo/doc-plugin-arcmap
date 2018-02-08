@@ -40,4 +40,4 @@ Le plugin est désormais référencé dans les compléments d'ArcMap. Il s'agit 
 
     ![](../../assets/plugin_ArcMap_install_custom_commands_FR.png "Personnalisation - Onlget Commandes - Catégorie Add-In Controls")
 
-6. 
+6. Glisse-déposer l'icône Isogeo dans l'un des barres 
