@@ -35,9 +35,25 @@ Le plugin est désormais référencé dans les compléments d'ArcMap. Il s'agit 
 
     ![](../../assets/plugin_ArcMap_install_custom_addins_windows_FR.png "Gestionnaire de compléments - Liste")
 
-4. Cliquer sur **"Personnaliser..."** (ou faire menu _Personnaliser / Mode personnalisation_).
-5. Aller dans l'onglet **Commandes**, attendre le chargement de la liste des catégories et sélectioner **Add-In Controls** :
+4. Cliquer sur **"Personnaliser..."** (ou faire menu _Personnaliser / Mode personnalisation_). Deux options d'ajout sont alors possibles, selon les habitudes de chacun :
+
+    * Ajouter une barre d'outils dédiée au plugin Isogeo
+    * Ajouter l'icône du plugin Isogeo à une barre d'outils existante
+
+#### II.a Ajouter une barre d'outils dédiée
+
+1. 
+
+
+> Astuce : il est également possible de faire un clic-droit et de cocher Isogeo, puis de placer la barre.
+
+#### II.b Ajouter l'icône à une barre d'outils existante
+
+1. Aller dans l'onglet **Commandes**, attendre le chargement de la liste des catégories et sélectioner **Add-In Controls** :
 
     ![](../../assets/plugin_ArcMap_install_custom_commands_FR.png "Personnalisation - Onlget Commandes - Catégorie Add-In Controls")
 
-6. Glisse-déposer l'icône Isogeo dans l'un des barres 
+2. Glisser-déposer l'icône Isogeo dans la barre d'outils :
+
+
+
