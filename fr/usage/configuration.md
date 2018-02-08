@@ -18,4 +18,13 @@ Créer un partage avec un ou plusieurs catalogues vers l'application _Plugin QGI
 
 
 
+---
+
+## Ancrer ou déplacer le plugin librement
+
+A l'instar des autres volets de l'interface d'ArcGIS, il est possible de choisir où positionner le plugin. Par exemple :
+
+* sur la droite de l'interface (position par défaut)
+* sur la gauche comme onglet alternatif à la "Table des matières)
+
 

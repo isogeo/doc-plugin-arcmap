@@ -6,24 +6,38 @@ Installation classique pour les utilisateurs non administrateurs de leur poste.
 
 La procédure se déroule en 2 grandes étapes : installer le plugin puis l'ajouter à l'interface.
 
-### Installer le plugin
+### I. Installer le plugin
 
 1. Dézipper la nouvelle version dans un dossier dédié. Pour être cohérent avec le fonctionnement d'ArcGIS, nous recommandons d'utiliser le dossier des _AddIns_ dans `Mes Documents` : `C:\Users\$USER\Documents\ArcGIS\AddIns\Desktop10.X\Isogeo` (noter le X à remplacer selon votre version)
 
-2. Cliquer sur `ArcMapAddinIsogeo.esriAddIn` :
+2. Double-cliquer sur **ArcMapAddinIsogeo.esriAddIn** :
     
-    ![](../../assets/plugin_ArcMap_install_esriaddin.png "")
+    ![](../../assets/plugin_ArcMap_install_esriaddin.png "Fichier .esriAddIn")
     
 3. La fenêtre suivante s'ouvre :
     
-    ![](../../assets/plugin_ArcMap_install_confirm.png "")
+    ![](../../assets/plugin_ArcMap_install_confirm.png "Assistant d\'installation du plugin")
 
 5. Valider en cliquant sur **Install Add-In**.
 
-Le plugin est désormais référencé dans les compléments d'ArcMap. Il s'agit maintenant de l'ajouter à l'interface graphique.
+Le plugin est désormais référencé dans les compléments d'ArcMap. Il s'agit maintenant de l'ajouter à l'interface de travail d'ArcMap.
 
-### Ajouter le plugin à l'interface
+---
+
+### II.Ajouter le plugin à l'interface
 
 1. Lancer ArcMap
 2. Ouvrir le menu **Personnaliser / Gestionnaire de compléments**
-3. 
+
+    ![](../../assets/plugin_ArcMap_install_custom_addins_menu_FR.png "Gestionnaire de compléments - Menu")
+
+3. Dans la section "Mes compléments", le plugin apparaît :
+
+    ![](../../assets/plugin_ArcMap_install_custom_addins_windows_FR.png "Gestionnaire de compléments - Liste")
+
+4. Cliquer sur **"Personnaliser..."** (ou faire menu _Personnaliser / Mode personnalisation_).
+5. Aller dans l'onglet **Commandes**, attendre le chargement de la liste des catégories et sélectioner **Add-In Controls** :
+
+    ![](../../assets/plugin_ArcMap_install_custom_commands_FR.png "Personnalisation - Onlget Commandes - Catégorie Add-In Controls")
+
+6. 
