@@ -42,7 +42,7 @@ Le plugin est désormais référencé dans les compléments d'ArcMap. Il s'agit 
 
 #### II.a Ajouter une barre d'outils dédiée
 
-1. 
+1. Dans l'onglet Barre d'outils
 
 
 > Astuce : il est également possible de faire un clic-droit et de cocher Isogeo, puis de placer la barre de la même manière :
