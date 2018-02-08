@@ -45,13 +45,15 @@ Le plugin est désormais référencé dans les compléments d'ArcMap. Il s'agit 
 1. 
 
 
-> Astuce : il est également possible de faire un clic-droit et de cocher Isogeo, puis de placer la barre.
+> Astuce : il est également possible de faire un clic-droit et de cocher Isogeo, puis de placer la barre de la même manière :
+> ![](../../assets/plugin_ArcMap_install_custom_toolbar_clic.png "Personnalisation - Barre d\'outils - Clic droit")
+
 
 #### II.b Ajouter l'icône à une barre d'outils existante
 
 1. Aller dans l'onglet **Commandes**, attendre le chargement de la liste des catégories et sélectioner **Add-In Controls** :
 
-    ![](../../assets/plugin_ArcMap_install_custom_commands_FR.png "Personnalisation - Onlget Commandes - Catégorie Add-In Controls")
+    ![](../../assets/plugin_ArcMap_install_custom_commands_FR.png "Personnalisation - Onglet Commandes - Catégorie Add-In Controls")
 
 2. Glisser-déposer l'icône Isogeo dans la barre d'outils :
 
