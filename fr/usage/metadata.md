@@ -1,18 +1,13 @@
 # Métadonnées
 
-## Consulter les métadonnées
+## Consulter les métadonnées détaillées {#abstract}
+
+Dans la liste des résultats, le résumé de la métadonnées s'affiche au survol du titre.
+
+![](../../assets/plugin_ArcMap_result_tooltip_abstract_FR.png)
+
+## Consulter les métadonnées détaillées {#metadata}
 
 Une fois les résultats affichés, l'utilisateur peut consulter la fiche de métadonnées Isogeo correspondant à la donnée en cliquant sur le titre. Elle s'affiche alors dans une fenêtre indépendante contenant les informations réparties dans différents onglets verticaux :
 
-![](https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/ui_detailed_metadata_fr_general.png "Fiche de métadonnées détaillée dans QGIS")
-
-## Synchroniser les métadonnées
-
-Lors de l'ajout d'une donnée à QGIS depuis le plugin, les métadonnées Isogeo sont ajoutées aux informations de la couche : 
-
-* titre ;
-* résumé ;
-* mots-clés.
-
-![](https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/ui_layer_metadata_fr.png "Métadonnées de couche remplie à partir d\'Isogeo")
-
+![](../../assets/plugin_ArcMap_metadata_history_FR.png "Consulter la fiche de métadonnées détaillée")
