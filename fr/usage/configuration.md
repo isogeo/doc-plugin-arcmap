@@ -1,6 +1,6 @@
 # Configuration et paramètres
 
-## Changer les clés d'authentification
+## Changer les clés d'authentification {#auth-change}
 
 Dans les paramètres, il est également possible de changer de compte, pour se connecter à une autre instance du plugin QGIS.
 
@@ -8,7 +8,8 @@ Dans les paramètres, il est également possible de changer de compte, pour se c
 
 ---
 
-## Partager les catalogues de ses données au plugin
+## Partager les catalogues de ses données au plugin {#share}
+
 
 Créer un partage avec un ou plusieurs catalogues vers l'application _Plugin QGIS_ dans l'administration des partages sur [APP](https://app.isogeo.com) ;
 
@@ -16,7 +17,7 @@ Créer un partage avec un ou plusieurs catalogues vers l'application _Plugin QGI
 
 ---
 
-## Ancrer ou déplacer le plugin librement
+## Ancrer ou déplacer le plugin librement {#positionning}
 
 A l'instar des autres volets de l'interface d'ArcGIS, il est possible de choisir où positionner la fenêtre du plugin et de la minimiser dynamiquement. Par exemple :
 
