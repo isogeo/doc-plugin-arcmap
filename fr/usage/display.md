@@ -10,7 +10,7 @@ Il y a plusieurs cas de figure :
 
 - La donnée peut être ajoutée de plusieurs manières différentes. Auquel cas, la colonne "Ajouter" comprend une liste déroulante permettant à l'utilisateur de choisir entre les différentes options avant de cliquer sur `+` :
 
-![](/assets/plugin_ArcMap_search_results_addOk_multi_FR.png "Donnée ajoutable de plusieurs manières")
+![](../../assets/plugin_ArcMap_search_results_addOk_multi_FR.png "Donnée ajoutable de plusieurs manières")
 
 ___
 
@@ -40,17 +40,14 @@ Une table SDE pourra être ajoutée par le plugin dans les conditions suivantes 
 - L'utilisateur a renseigné le fichier de connexion SDE à utiliser dans l'onglet `Paramètres`
 - La fiche documentant la table a été créée à partir du scan FME Isogeo. En créant une fiche manuellement dans https://app.isogeo.com, il est impossible de renseigner le champ *name* nécessaire à l’ajout de la table.
 
+![](../../assets/plugin_ArcMap_settings_SDE_FR.png "Pointer sur le fichier de connexion SDE")
+
+
 ### Services géographiques {#add-service}
 
-Le plugin supporte les couches de services documentés automatiquement et associés aux métadonnées de données.  
+Le plugin supporte les couches de services documentés automatiquement et associées aux métadonnées de données.  
 
-Consulter [l'aide en ligne au sujet du recensement automatisé des services et de l'association couche de service / donnée cataloguée](http://help.isogeo.com/fr/features/inventory/md_services/srv_intro.html).
-
-Il supporte également les URLs de couches de services renseignées manuellement dans la métadonnée. Si cette méthode (dépréciée) est utilisée :
-- L’url doit contenir la base de l’url du service géographique
-- Elle doit également contenir le nom de la couche du service à afficher.
-
-Consulter [l'aide en ligne sur les syntaxes de documentation manuelle des couches de services](http://help.isogeo.com/fr/features/publish/webservices.html).
+Consulter [l'aide en ligne Isogeo au sujet du recensement automatisé des services et de l'association couche de service / donnée cataloguée](http://help.isogeo.com/fr/features/inventory/md_services/srv_intro.html).
 
 #### Formats de services supportés
 
