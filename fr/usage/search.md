@@ -1,9 +1,9 @@
 # Rechercher
 
-Pour tenir compte du moteur de recherche Isogeo \(basé sur le principes des facettes contextuelles\) mais aussi pour les performances, la recherche se passe en deux temps :
+Pour tenir compte du moteur de recherche Isogeo \(basé sur le principes des facettes contextuelles\) mais aussi des performances, la recherche se passe en deux temps :
 
-1. l'utilisateur entre les paramètres de sa recherche qui ressert de plus en plus le nombre de résultats ;
-2. l'utilisateur affiche et parcourt la liste des résultats.
+1. l'utilisateur entre les paramètres de sa recherche qui ressert de plus en plus le nombre de résultats (principe de l'entonnoir) ;
+2. l'utilisateur affiche et parcourt la liste des résultats
 
 ![](../../assets/plugin_ArcMap_search_tab_filtered_FR.png "Interface du plugin avec une recherche vide")
 
