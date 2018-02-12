@@ -83,5 +83,9 @@ Les autres tris disponibles sont :
 * Date de création de la donnée
 * Date de dernière modification de la donnée
 
+---
 
+## Réinitiliser la recherche {#search-reset}
 
+A tout moment, il est possible de réinitialiser le formulaire de recherche :
+* soit en cliquant sur l'icône 

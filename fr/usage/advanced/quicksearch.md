@@ -20,3 +20,4 @@ Choisir la recherche enregistrée dans la liste déroulante pour exécuter la re
 
 ![](https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/search_quicksearch_pick_fr.png "Utiliser une recherche rapide")
 
+
