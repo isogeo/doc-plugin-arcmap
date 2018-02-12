@@ -1,56 +1,46 @@
 # Ajouter une donnée à la carte
 
-Pour ajouter une donnée à la carte, la colonne "Ajouter" liste les options possibles.
+Pour ajouter une donnée à la carte, la troisième colonne (dite "Ajouter") liste les options possibles.
 
 Il y a plusieurs cas de figure :
 
-- La donnée peut être ajoutée d'une seule manière. Auquel cas, la colonne "Ajouter" ne comprend qu'un bouton. Au clic, la donnée sera ajoutée à la carte.
+- La donnée peut être ajoutée d'une seule manière. Auquel cas, la colonne "Ajouter" ne comprend qu'un bouton. Au clic sur le bouton `+`, la donnée sera ajoutée à la carte.
 
-![](https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/search_results_addOk_one_fr.png "Donnée ajoutable d'une seule manière")
+![](../../assets/plugin_ArcMap_search_results_addOk_one_FR.png "Donnée ajoutable d\'une seule manière")
 
-- La donnée peut être ajoutée de plusieurs manières différentes. Auquel cas, la colonne "Ajouter" comprend une liste déroulante permettant à l'utilisateur de choisir entre les différentes options.
+- La donnée peut être ajoutée de plusieurs manières différentes. Auquel cas, la colonne "Ajouter" comprend une liste déroulante permettant à l'utilisateur de choisir entre les différentes options avant de cliquer sur `+` :
 
-![](https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/search_results_add_OK_multi_fr.png "Donnée ajoutable de plusieurs manières")
+![](/assets/plugin_ArcMap_search_results_addOk_multi_FR.png "Donnée ajoutable de plusieurs manières")
 
-- La donnée ne peut pas être ajoutée : le fichier n'est pas disponible et il n'y a pas de services renseignés (ou ceux-ci sont mal renseignés).
-
-![](https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/search_results_addNot_fr.png "Donnée non ajoutable - Critères non remplis")
 ___
 
 ## Critères
 
-### Données fichier
+### Données fichier {#add-file}
 
 Le chemin vers la donnée doit être rempli dans le champ `Emplacement de la donnée` sur https://app.isogeo.com. Ce chemin doit être accessible :
 
-* par l'utilisateur ayant lancé QGIS (droits en lecture);
+* par l'utilisateur ayant lancé ArcGIS (droits en lecture);
 * depuis le poste sur lequel le plugin se trouve (en local ou via le réseau local).
 
 #### Formats supportés
 
 ##### Vecteur
 
-- Esri FileGDB
-- Esri shapefile
+\\A DOCUMENTER //
 
 ##### Raster
 
-- ECW
-- Esri ascii grid
-- Geotiff
-- Intergraph gdb
-- JPEG
-- PNG
-- XYZ
+\\A DOCUMENTER //
 
-### Données SDE
+### Données SDE {#add-sde}
 
 Une table SDE pourra être ajoutée par le plugin dans les conditions suivantes : 
 
 - L'utilisateur a renseigné le fichier de connexion SDE à utiliser dans l'onglet `Paramètres`
 - La fiche documentant la table a été créée à partir du scan FME Isogeo. En créant une fiche manuellement dans https://app.isogeo.com, il est impossible de renseigner le champ *name* nécessaire à l’ajout de la table.
 
-### Services géographiques
+### Services géographiques {#add-service}
 
 Le plugin supporte les couches de services documentés automatiquement et associés aux métadonnées de données.  
 
@@ -67,6 +57,5 @@ Consulter [l'aide en ligne sur les syntaxes de documentation manuelle des couche
 - Web Feature Service (WFS)
 - Web Map Service (WMS)
 - Web Map Tile Service (WMTS)
-
-> **Note importante**
-> Si le titre de la couche comprend des caractères spéciaux ou des accents, il est possible que la couche ne puisse pas être affichée convenablement dans QGIS. Il s’agit d’un problème de gestion de l'encodage par l’API PyQGIS.
+- Esri Feature Service (EFS)
+- Esri Map Service (EMS)
