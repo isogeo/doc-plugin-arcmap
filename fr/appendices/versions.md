@@ -2,21 +2,20 @@
 
 <!-- timeline -->
 
-## 2.0 {#version12}
+## 2.0 {#version2.0}
 
-<br> Publiée le 1er février 2017 :
+<br> Publiée le 1er mars 2018 :
 
-
-
+* configuration du proxy de l'organisme
+* refonte de l'interface graphique
 
 <!-- /timeline -->
 <!-- timeline -->
 
-## 1.x {#version10}
+## 1.x {#version1.x}
 
-<br> Version publiées entre le 1er octobre 2015 et 1er avril 2017 :
+<br> Versions publiées entre le 1er octobre 2015 et 1er avril 2017 :
 
-* produit minimum atteint ;
 * socle fonctionnel de base : recherche textuelle, filtres dynamiques, recherche géographique, affichage des résultats, ajout des données, fiche de métadonnées minimaliste, recherches rapides, etc.
 
 <!-- /timeline -->
