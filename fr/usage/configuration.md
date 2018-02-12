@@ -23,4 +23,4 @@ A l'instar des autres volets de l'interface d'ArcGIS, il est possible de choisir
 * sur la droite de l'interface (position par défaut)
 * sur la gauche comme onglet alternatif à la "Table des matières)
 
-
+![](https://www.isogeo.com/_medias/images/applications/plugin_ArcMap_config_positions.gif "Positionner le plugin dans l\'interface d\'ArcGIS")
