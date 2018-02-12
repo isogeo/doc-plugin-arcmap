@@ -1,8 +1,16 @@
 # Configuration et paramètres
 
+## Connexion à travers un proxy {#proxy}
+
+Si le connexion à l'API Isogeo ([voir les prérequis](/prerequisites.md)) passe par un proxy (serveur mandataire) ou un pare-feu réclamant une authentification, l'utilisateur doit spécifier les paramètres dans l'onglet `Paramètres` :
+
+![](../../assets/plugin_ArcMap_proxy_form.png "Configuer la connexion \à travers un serveur mandataire \(proxy\) ou pare\-feu")
+
+---
+
 ## Changer les clés d'authentification {#auth-change}
 
-Dans les paramètres, il est également possible de changer de compte, pour se connecter à une autre instance du plugin QGIS.
+Si les clés d'authentification à l'API Isogeo ne sont plus valables, il est possible de les changer manuellement dans l'onglet `Paramètres` :
 
 ![](../../assets/plugin_ArcMap_authentication_button.png "Changer les clés API du plugin")
 
