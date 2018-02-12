@@ -19,7 +19,7 @@ Si les clés d'authentification à l'API Isogeo ne sont plus valables, il est po
 ## Partager les catalogues de ses données au plugin {#share}
 
 
-Créer un partage avec un ou plusieurs catalogues vers l'application _Plugin QGIS_ dans l'administration des partages sur [APP](https://app.isogeo.com) ;
+Créer un partage avec un ou plusieurs catalogues vers l'application _Plugin ArcMap_ dans l'administration des partages sur [APP](https://app.isogeo.com) ;
 
 ![](../../assets/app_share_toPlugin_FR.png "Créer et configurer un partage depuis Isogeo")
 

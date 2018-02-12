@@ -7,24 +7,17 @@ Si vous obtenez un message d'erreur ou bien vous constatez un comportement anorm
   - vérifier dans cette documentation si par hasard rien ne correspond à une explication du comportement constaté ;)
   - regarder l'onglet dédié à isogeo dans la fenêtre des messages de QGIS :
 
-![](https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/qgis_log_view_tab_isogeo_fr.png "Ouvrir la fenêtre des messages de QGIS")
-
-Le problème persiste et signe ? Le (dys)fonctionnement est incompréhensible ?
-
-Il faut alors [créer un ticket ici](https://github.com/isogeo/isogeo-plugin-qgis/issues) en joignant une capture de l'onglet de la fenêtre messages et *surtout le fichier log_isogeo_plugin.log* situé dans le dossier d'installation du plugin (`C:\Users\%USERNAME%\.qgis2\python\plugins` pour Windows ou `/home/$USER/.qgis2/python/plugins` pour Debian) :
-
-![](https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/qgis_plugin_folder_structure.png "Structure du dossier du plugin Isogeo pour QGIS")
 ___
 
 ## Questions fréquentes
 
 ### Pourquoi n'y a t'il aucune donnée dans mon plugin ?
 
-Vérifier qu'au moins un partage alimente l'application : voir [comment partager à l'application depuis Isogeo](/usage/configuration.md).
+Vérifier qu'au moins un partage alimente l'application : voir [comment partager à l'application depuis Isogeo](/usage/configuration.md#share).
 
 ### Pourquoi aucun résultat n'est ajoutable ?
 
-Pour qu'une donnée soit ajoutable à la carte (canevas cartographique selon le vocabulaire QGIS), il faut que des informations le permettant soient cataloguées dans la métadonnée. 
+Pour qu'une donnée soit ajoutable à la carte, il faut que des informations le permettant soient cataloguées dans la métadonnée. 
 
 Pour en savoir plus, [consulter la section dédiée dans la documentation](/usage/display.md).
 
