@@ -1,11 +1,14 @@
-# Recherche par défaut
+# Paramétrer la recherche
 
-Dans l'onglet "Paramètres", l’utilisateur peut configurer la recherche par défaut, à savoir la recherche qui s’exécute automatiquement au lancement du plugin. Par défaut, il s’agit d’une requête sans paramètres, renvoyant la totalité des données partagées avec le plugin.
+Dans l'onglet `Paramètres`, l’utilisateur peut spécifier quelques réglages sur la recherche :
 
-## Sauvegarder la recherche par défaut
+* la langue de recherche (également celle de l'interface du plugin)
+* filtrer par défaut sur un groupe de travail Isogeo qui a créé la métadonnée (_Propriétaire de la métadonnée_)
+* l'opérateur géométrique appliqué aux recherches géographiques ([voir section dédiée](/usage/search.md#geometric))
+* les paramètres de tri
+* le fichier de connexion SDE pour les données en base Esri
 
-1. Effectuer la recherche souhaitée ;
-2. Se rendre dans l'onglet des paramètres et cliquer sur le bouton de sauvegarde de la recherche par défaut :
+![](/assets/plugin_ArcMap_settings_defaultSearch_FR.png)
 
-![](../../assets/plugin_ArcMap_settings_defaultSearch_FR.png "")
+![](../../assets/plugin_ArcMap_settings_defaultSearch_FR.png "Param\étrer la recherche")
 
