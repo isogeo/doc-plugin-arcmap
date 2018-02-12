@@ -8,7 +8,5 @@ Dans l'onglet `Paramètres`, l’utilisateur peut spécifier quelques réglages 
 * les paramètres de tri
 * le fichier de connexion SDE pour les données en base Esri
 
-![](/assets/plugin_ArcMap_settings_defaultSearch_FR.png)
-
-![](../../assets/plugin_ArcMap_settings_defaultSearch_FR.png "Param\étrer la recherche")
+![](../../../assets/plugin_ArcMap_settings_defaultSearch_FR.png "Param\étrer la recherche")
 
