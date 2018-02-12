@@ -9,7 +9,7 @@ Pour tenir compte du moteur de recherche Isogeo \(basé sur le principes des fac
 
 De là il peut alors [consulter la métadonnée](/usage/metadata.md) ou [ajouter la donnée à sa carte](/usage/display.md).
 
-## Recherche sémantique
+## Recherche sémantique {search-terms}
 
 La recherche textuelle s'effectue dans la barre de saisie de texte en haut à gauche de la fenêtre du plugin.
 
@@ -23,9 +23,9 @@ Les termes saisis sont recherchés au sein :
 
 Pour en savoir plus sur le fonctionnement du moteur de recherche Isogeo, [consulter l'aide en ligne](http://help.isogeo.com/fr/features/inventory/search.html).
 
-## Filtres contextuels
+## Filtres contextuels {#filters}
 
-### Filtre par mot-clé
+### Filtre par mot-clé {#keywords}
 
 Pour filtrer sur un mot-clé, sélectionner dans la liste déroulante dédiée.
 
@@ -37,7 +37,7 @@ Tous les autres filtres sémantiques fonctionnent de la même manière \(sélect
 
 Tous les filtres sont inter-dépendants \(contextuels\). Ainsi l'application d'un filtre fait évoluer les modalités disponibles dans toutes les listes déroulantes et le nombre de résultats correspondant.
 
-### Filtre géographique
+### Filtre géographique {#geometric}
 
 Il est également possible de filtrer les résultats à partir de l'emprise de la carte.
 
@@ -49,26 +49,25 @@ Par défaut, le filtre géographique remonte toute les données qui **intersecte
 
 ---
 
-## Afficher les résultats
+## Afficher les résultats {#display}
 
-Lors de la saisie de texte dans la barre de recherche et de l'action sur un filtre sémantique, le contenu des autres filtres se met à jour, et le nombre de résultats attendus s'affiche dans le bouton orange.
+Lors de la saisie de texte dans la barre de recherche et de l'action sur un filtre sémantique, le contenu des autres filtres se met à jour, et le nombre de résultats attendus s'affiche à côté de l'oeil.
 
-![](https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/search_results_show_fr.png "Nombre de résultats sur le bouton pour les afficher")
+![](../../assets/plugin_ArcMap_search_results_show_FR.png "Nombre de résultats sur le bouton pour les afficher")
 
-Au clic sur ce bouton, les résultats de la recherche sont affichés dans le tableau des résultats, paginés de manière à ne jamais afficher plus de 10 résultats simultanément.
+Au clic sur ce bouton, les résultats de la recherche sont affichés dans le tableau, paginés de manière à n'afficher autant de résultats que la hauteur de la fenêtre le permet.
 
 Pour chaque résultat, on trouve :
 
-* le titre affecté à la fiche de métadonnée
-* la date de dernière modification de la donnée
-* une icône représentant son type de géométrie
+* le titre affecté à la fiche de métadonnée, au survol duquel s'affiche le résumé
+* une icône représentant le type de données
 * les modalités d'ajout disponibles pour cette donnée
 
 Deux boutons sont consacrés à la navigation entre les différentes pages de résultats en bas du tableau :
 
-![](https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/search_results_pagination_fr.png "Pagination des résultats")
+![](../../assets/plugin_ArcMap_search_results_pagination_FR.png "Pagination des résultats")
 
-### Trier les résultats
+### Trier les résultats {#order}
 
 Une fois affichés, les résultats peuvent être triés.
 
