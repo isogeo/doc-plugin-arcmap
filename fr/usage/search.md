@@ -88,4 +88,6 @@ Les autres tris disponibles sont :
 ## Réinitiliser la recherche {#search-reset}
 
 A tout moment, il est possible de réinitialiser le formulaire de recherche :
-* soit en cliquant sur l'icône 
+
+* soit en cliquant sur l'icône à côté du bouton d'affichage des résultats
+* soit en cliquant sur le menu `Gestion des recherches` puis sur `Nouvelle recherche`
