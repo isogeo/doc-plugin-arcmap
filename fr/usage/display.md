@@ -30,11 +30,8 @@ Le chemin vers la donnée doit être rempli dans le champ `Emplacement de la don
 
 ##### Vecteur
 
-- DXF
-- DGN
 - Esri FileGDB
 - Esri shapefile
-- MapInfo tab
 
 ##### Raster
 
@@ -46,13 +43,12 @@ Le chemin vers la donnée doit être rempli dans le champ `Emplacement de la don
 - PNG
 - XYZ
 
-### Données PostGIS
+### Données SDE
 
-Une table PostGIS pourra être ajoutée par le plugin dans les conditions suivantes : 
+Une table SDE pourra être ajoutée par le plugin dans les conditions suivantes : 
 
-- La connexion à la base de données dans laquelle elle se trouve a été enregistrée dans QGIS
-- L’option “Enregistrer le nom d’utilisateur et le mot de passe” a été choisie
-- La fiche documentant la table PostGIS a été créée à partir du scan FME Isogeo. En créant une fiche manuellement dans https://app.isogeo.com, il est impossible de renseigner le champ *name* nécessaire à l’ajout de la table.
+- L'utilisateur a renseigné le fichier de connexion SDE à utiliser dans l'onglet `Paramètres`
+- La fiche documentant la table a été créée à partir du scan FME Isogeo. En créant une fiche manuellement dans https://app.isogeo.com, il est impossible de renseigner le champ *name* nécessaire à l’ajout de la table.
 
 ### Services géographiques
 
