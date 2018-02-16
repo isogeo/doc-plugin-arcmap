@@ -23,15 +23,10 @@ Le chemin vers la donnée doit être rempli dans le champ `Emplacement de la don
 * par l'utilisateur ayant lancé ArcGIS (droits en lecture);
 * depuis le poste sur lequel le plugin se trouve (en local ou via le réseau local).
 
-#### Formats supportés
+Formats :
 
-##### Vecteur
-
-\\A DOCUMENTER //
-
-##### Raster
-
-\\A DOCUMENTER //
+* Esri FileGDB
+* Esri Shapefile
 
 ### Données SDE {#add-sde}
 
@@ -45,14 +40,12 @@ Une table SDE pourra être ajoutée par le plugin dans les conditions suivantes 
 
 ### Services géographiques {#add-service}
 
-Le plugin supporte les couches de services documentés automatiquement et associées aux métadonnées de données.  
-
-Consulter [l'aide en ligne Isogeo au sujet du recensement automatisé des services et de l'association couche de service / donnée cataloguée](http://help.isogeo.com/fr/features/inventory/md_services/srv_intro.html).
-
-#### Formats de services supportés
+Le plugin supporte les couches de services documentés automatiquement et associées aux métadonnées de données :
 
 - Web Feature Service (WFS)
 - Web Map Service (WMS)
 - Web Map Tile Service (WMTS)
 - Esri Feature Service (EFS)
 - Esri Map Service (EMS)
+
+Consulter [l'aide en ligne Isogeo au sujet du recensement automatisé des services et de l'association couche de service / donnée cataloguée](http://help.isogeo.com/fr/features/inventory/md_services/srv_intro.html).
