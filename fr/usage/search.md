@@ -85,7 +85,7 @@ Les autres tris disponibles sont :
 
 ---
 
-## Réinitiliser la recherche {#search-reset}
+## Réinitialiser la recherche {#search-reset}
 
 A tout moment, il est possible de réinitialiser le formulaire de recherche :
 
