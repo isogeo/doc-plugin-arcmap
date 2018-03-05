@@ -5,7 +5,7 @@ Pour tenir compte du moteur de recherche Isogeo \(basé sur le principes des fac
 1. l'utilisateur entre les paramètres de sa recherche qui ressert de plus en plus le nombre de résultats (principe de l'entonnoir) ;
 2. l'utilisateur affiche et parcourt la liste des résultats
 
-![](../../assets/plugin_ArcMap_search_tab_filtered_FR.png "Interface du plugin avec une recherche vide")
+![](../../assets/plugin_ArcMap_search_tab_filtered_FR.png "Interface de recherche du plugin - Recherche filtrée sur un mot-clé")
 
 De là il peut alors [consulter la métadonnée](/usage/metadata.md) ou [ajouter la donnée à sa carte](/usage/display.md).
 
