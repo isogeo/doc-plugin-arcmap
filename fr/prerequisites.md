@@ -2,7 +2,7 @@
 
 ## Environnement technique
 
-* ArcMap - ArcGIS Desktop 10.x si version supportée et maintenue par Esri
+* ArcMap - ArcGIS Desktop 10.x : versions supportées et maintenues par Esri
 * une connexion autorisée et configurée \(proxy, pare-feu...\) vers [https://v1.api.isogeo.com/\*](https://v1.api.isogeo.com/) et [https://id.api.isogeo.com/\*](https://v1.api.isogeo.com/)
 
 Si la connexion est derrière un proxy, il est parfois possible de le configurer directement depuis les paramètres Windows. Exemple sous Windows 10 :
