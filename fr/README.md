@@ -13,6 +13,9 @@ Les différents plugins et widgets partagent une base fonctionnelle commune, ré
 * **Afficher** la donnée dans son logiciel (ou son application) grâce aux ressources renseignées dans Isogeo ;
 * **Consulter** la fiche de métadonnées dans une fenêtre dédiée ;
 
+!["Données ajoutées à la carte d\'ArcMap via le plugin Isogeo"](../../assets/plugin_ArcMap_map_dataAdded_3_FR.png)
+
+
 ### Vidéo de présentation
 
 Une vidéo de présentation de la version 1 du plugin est disponible :
