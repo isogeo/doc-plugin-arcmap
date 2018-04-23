@@ -15,15 +15,6 @@ Les différents plugins et widgets partagent une base fonctionnelle commune, ré
 
 !["Données ajoutées à la carte d\'ArcMap via le plugin Isogeo"](../../assets/plugin_ArcMap_map_dataAdded_3_FR.png)
 
-
-### Vidéo de présentation
-
-Une vidéo de présentation de la version 1 du plugin est disponible :
-
-{% youtube %}
-https://www.youtube.com/watch?v=mW7qCcjQM4w
-{% endyoutube %}
-
 ---
 
 ## Caractéristiques
@@ -37,4 +28,4 @@ L'application est disponible en 2 langues :
 
 ### Licence
 
-Le plugin est la propriété d'Isogeo, le développement étant délégué à  [GEOFIT](http://geofit.fr/).
+Le plugin est la propriété exclusive d'Isogeo, le développement étant délégué à  [GEOFIT](http://geofit.fr/).
