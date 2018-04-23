@@ -2,7 +2,7 @@
 
 Pour tenir compte du moteur de recherche Isogeo \(basé sur le principes des facettes contextuelles\) mais aussi des performances, la recherche se passe en deux temps :
 
-1. l'utilisateur entre les paramètres de sa recherche qui ressert de plus en plus le nombre de résultats (principe de l'entonnoir) ;
+1. l'utilisateur entre les paramètres de sa recherche qui ressert de plus en plus le nombre de résultats \(principe de l'entonnoir\) ;
 2. l'utilisateur affiche et parcourt la liste des résultats
 
 ![](../../assets/plugin_ArcMap_search_tab_filtered_FR.png "Interface de recherche du plugin - Recherche filtrée sur un mot-clé")
@@ -45,7 +45,7 @@ Il est également possible de filtrer les résultats à partir de l'emprise de l
 
 Par défaut, le filtre géographique remonte toute les données qui **intersectent** l'emprise considérée. Pour changer ce comportement, aller dans l'onglet "Paramètres", choisir un opérateur différent, puis relancer la recherche.
 
-![](../../assets/plugin_ArcMap_settings_geographic_FR.png "Paramétrer l\'opérateur géométrique pour le filtre géographique")
+![](../../assets/plugin_ArcMap_settings_geographic_FR.png "Paramétrer l\&apos;opérateur géométrique pour le filtre géographique")
 
 ---
 
@@ -91,3 +91,6 @@ A tout moment, il est possible de réinitialiser le formulaire de recherche :
 
 * soit en cliquant sur l'icône à côté du bouton d'affichage des résultats
 * soit en cliquant sur le menu `Gestion des recherches` puis sur `Nouvelle recherche`
+
+
+
