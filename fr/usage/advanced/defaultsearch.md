@@ -2,7 +2,7 @@
 
 Dans l'onglet `Paramètres`, l’utilisateur peut spécifier quelques réglages sur la recherche :
 
-![](../../../assets/plugin_ArcMap_settings_defaultSearch_FR.png "Param\étrer la recherche")
+![](../../../assets/plugin_ArcMap_settings_defaultSearch_FR.png "Paramétrer la recherche")
 
 ## Options de recherche {#search_options}
 
