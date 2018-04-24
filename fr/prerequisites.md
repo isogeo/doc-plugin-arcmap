@@ -1,6 +1,6 @@
 # Prérequis
 
-## Environnement technique
+## Environnement technique {#technical}
 
 * ArcMap - ArcGIS Desktop 10.x : versions supportées et maintenues par Esri
 * une connexion autorisée et configurée \(proxy, pare-feu...\) vers [https://v1.api.isogeo.com/\*](https://v1.api.isogeo.com/) et [https://id.api.isogeo.com/\*](https://v1.api.isogeo.com/)
@@ -11,7 +11,7 @@ Si la connexion est derrière un proxy, il est parfois possible de le configurer
 
 ---
 
-## Accès Isogeo
+## Accès Isogeo {#isogeo}
 
 ### Pour consulter ses propres données
 
@@ -19,6 +19,8 @@ Si la connexion est derrière un proxy, il est parfois possible de le configurer
 * au moins un catalogue contenant au moins une métadonnée, partagé au plugin ;
 * des clés d'authentification auprès de l'API Isogeo ;
 
-### Pour consulter des données publiques
+### Essayer le plugin Isogeo pour Arcmap {#try-it}
 
-// A PRECISER //
+Vous ne disposez pas encore d'un compte Isogeo mais vous souhaitez essayer le plugin Isogeo pour ArcMap ? merci de remplir le formulaire ci-dessous :
+
+<div class="pipedriveWebForms" data-pd-webforms="https://pipedrivewebforms.com/form/6d559db15530865859ed7174a3663e4152944"><script src="https://webforms.pipedriveassets.com/webforms.min.js"></script></div>
