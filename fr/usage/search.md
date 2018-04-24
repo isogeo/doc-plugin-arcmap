@@ -9,7 +9,7 @@ Pour tenir compte du moteur de recherche Isogeo \(basé sur le principes des fac
 
 De là il peut alors [consulter la métadonnée](/usage/metadata.md) ou [ajouter la donnée à sa carte](/usage/display.md).
 
-## Recherche sémantique {search-terms}
+## Recherche sémantique {#search-terms}
 
 La recherche textuelle s'effectue dans la barre de saisie de texte en haut à gauche de la fenêtre du plugin.
 
