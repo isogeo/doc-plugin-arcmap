@@ -22,8 +22,3 @@ Si la connexion est derrière un proxy, il est parfois possible de le configurer
 ### Pour consulter des données publiques
 
 // A PRECISER //
-
-
-
-
-<div class="pipedriveWebForms" data-pd-webforms="https://pipedrivewebforms.com/form/73f6215ad660efcc946e1e6d9ff0f62a52944"><script src="https://webforms.pipedriveassets.com/webforms.min.js"></script></div>
