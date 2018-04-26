@@ -4,6 +4,7 @@
 
 * [Introduction](README.md)
 * [Prérequis](prerequisites.md)
+* [tryit](tryit.md)
 
 ## Installation
 

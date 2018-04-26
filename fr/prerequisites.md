@@ -19,8 +19,4 @@ Si la connexion est derrière un proxy, il est parfois possible de le configurer
 * au moins un catalogue contenant au moins une métadonnée, partagé au plugin ;
 * des clés d'authentification auprès de l'API Isogeo ;
 
-### Essayer le plugin {#try-it}
 
-Vous ne disposez pas encore d'un compte Isogeo mais vous souhaitez essayer le plugin Isogeo pour ArcMap ? Merci de remplir le formulaire ci-dessous :
-
-<div class="pipedriveWebForms" data-pd-webforms="https://pipedrivewebforms.com/form/6d559db15530865859ed7174a3663e4152944"><script src="https://webforms.pipedriveassets.com/webforms.min.js"></script></div>
