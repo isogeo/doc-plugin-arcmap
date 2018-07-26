@@ -6,11 +6,11 @@ Il y a plusieurs cas de figure :
 
 * La donnée peut être ajoutée d'une seule manière. Auquel cas, la colonne "Ajouter" ne comprend qu'un bouton. Au clic sur le bouton `+`, la donnée sera ajoutée à la carte.
 
-![](../../assets/plugin_ArcMap_search_results_addOk_one_FR.png "Donnée ajoutable d\&apos;une seule manière")
+![](../../assets/plugin_ArcMap_search_results_addOk_one_FR.png "Donn&eacute;e ajoutable d\&apos;une seule mani&egrave;re")
 
 * La donnée peut être ajoutée de plusieurs manières différentes. Auquel cas, la colonne "Ajouter" comprend une liste déroulante permettant à l'utilisateur de choisir entre les différentes options avant de cliquer sur `+` :
 
-![](../../assets/plugin_ArcMap_search_results_addOk_multi_FR.png "Donnée ajoutable de plusieurs manières")
+![](../../assets/plugin_ArcMap_search_results_addOk_multi_FR.png "Donn&eacute;e ajoutable de plusieurs mani&egrave;res")
 
 ---
 
@@ -49,3 +49,14 @@ Le plugin supporte les couches de services documentés automatiquement et associ
 
 Consulter [l'aide en ligne Isogeo au sujet du recensement automatisé des services et de l'association couche de service / donnée cataloguée](http://help.isogeo.com/fr/features/inventory/md_services/srv_intro.html).
 
+#### Cas particuliers
+
+##### Accès au serveur géographique {#srv-403}
+
+A l'ajout d'un service, la fenêtre d'erreur suivante peut s'afficher :
+
+![](../../assets/plugin_ArcMap_error_srv_403.jpg "Erreur d&apos;acc&egrave;s au serveur g&eacute;ographique")
+
+Pour qu'ArcGIS puisse accéder aux données via un service géographique, il est nécessaire que l'URL racine du serveur géographique soit pleinement accessible en lecture.
+
+Par exemple, si les services à ajouter sont sur une URL du type : https://sig.monorganisme.fr/arcgis/rest/services/ISOGEO, alors l'URL racine du serveur géographique doit également être accessible en lecture : https://sig.monorganisme.fr/arcgis/rest/services.
