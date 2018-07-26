@@ -45,7 +45,7 @@ Il est également possible de filtrer les résultats à partir de l'emprise de l
 
 Par défaut, le filtre géographique remonte toute les données qui **intersectent** l'emprise considérée. Pour changer ce comportement, aller dans l'onglet "Paramètres", choisir un opérateur différent, puis relancer la recherche.
 
-![](../../assets/plugin_ArcMap_settings_geographic_FR.png "Paramétrer l\&apos;opérateur géométrique pour le filtre géographique")
+![](../../assets/plugin_ArcMap_settings_geographic_FR.png "Paramétrer l&apos;opérateur géométrique pour le filtre géographique")
 
 ---
 

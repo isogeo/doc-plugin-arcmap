@@ -4,7 +4,7 @@
 
 Si le connexion à l'API Isogeo ([voir les prérequis](/prerequisites.md)) passe par un proxy (serveur mandataire) ou un pare-feu réclamant une authentification, l'utilisateur doit spécifier les paramètres dans l'onglet `Paramètres` :
 
-![](../../assets/plugin_ArcMap_proxy_form.png "Configuer la connexion \à travers un serveur mandataire \(proxy\) ou pare\-feu")
+![](../../assets/plugin_ArcMap_proxy_form.png "Configuer la connexion à travers un serveur mandataire \(proxy\) ou pare\-feu")
 
 ---
 
@@ -32,4 +32,4 @@ A l'instar des autres volets de l'interface d'ArcGIS, il est possible de choisir
 * sur la droite de l'interface (position par défaut)
 * sur la gauche comme onglet alternatif à la "Table des matières)
 
-![](https://www.isogeo.com/_medias/images/applications/plugin_ArcMap_config_positions.gif "Positionner le plugin dans l\'interface d\'ArcGIS")
+![](https://www.isogeo.com/_medias/images/applications/plugin_ArcMap_config_positions.gif "Positionner le plugin dans l&apos;interface d&apos;ArcGIS")
