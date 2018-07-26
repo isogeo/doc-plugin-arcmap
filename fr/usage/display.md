@@ -6,7 +6,7 @@ Il y a plusieurs cas de figure :
 
 * La donnée peut être ajoutée d'une seule manière. Auquel cas, la colonne "Ajouter" ne comprend qu'un bouton. Au clic sur le bouton `+`, la donnée sera ajoutée à la carte.
 
-![](../../assets/plugin_ArcMap_search_results_addOk_one_FR.png "Donn&eacute;e ajoutable d\&apos;une seule mani&egrave;re")
+![](../../assets/plugin_ArcMap_search_results_addOk_one_FR.png "Donn&eacute;e ajoutable d&apos;une seule mani&egrave;re")
 
 * La donnée peut être ajoutée de plusieurs manières différentes. Auquel cas, la colonne "Ajouter" comprend une liste déroulante permettant à l'utilisateur de choisir entre les différentes options avant de cliquer sur `+` :
 
