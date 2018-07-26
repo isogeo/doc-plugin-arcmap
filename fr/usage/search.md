@@ -92,5 +92,15 @@ A tout moment, il est possible de réinitialiser le formulaire de recherche :
 * soit en cliquant sur l'icône à côté du bouton d'affichage des résultats
 * soit en cliquant sur le menu `Gestion des recherches` puis sur `Nouvelle recherche`
 
+---
 
+## Cas particuliers
 
+### Aucun résultat ne s'affiche {#no-results}
+
+Si aucun résultat ne s'affiche, cela peut être provoqué par une erreur technique liée à la non prise en charge par ArcMap des emprises multiples dans un JSON (format de communication de l'API).
+
+Exemple d'une emprise multiple provoquant cette erreur :
+
+![](../../assets/plugin_ArcMap_error_geojson_multipolygon.png
+ "Emprises multiples non prises en charge")
