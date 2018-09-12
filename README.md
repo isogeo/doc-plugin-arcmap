@@ -2,7 +2,7 @@
 
 # Isogeo - ArcMap plugin documentation
 
-A single and simple HTML page listing Isogeo online documentations ([see Github repositories](https://github.com/search?q=topic%3Adocumentation+org%3Aisogeo&type=Repositories)).
+Content, structure and media of the website documentation. It's part of the Isogeo online documentations ([see Github repositories](https://github.com/search?q=topic%3Adocumentation+org%3Aisogeo&type=Repositories)).
 
 ## Edit this documentation
 
